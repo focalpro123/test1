@@ -1,4 +1,4 @@
-x=int(input("Enter No"))
+x=int(input("Enter Number to Check Armstrong or not: "))
 s=0
 d=0
 copy=x
